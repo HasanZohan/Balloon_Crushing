@@ -1,0 +1,15 @@
+﻿Build started 4/10/2016 9:40:43 PM.
+     1>Project "G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Balloon_Crushing\Balloon_Crushing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>g:\uiu cse needed study file\pendrive\updated balloon_crushing\balloon_crushing\source.cpp(100): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Debug\Balloon_Crushing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Debug\Balloon_Crushing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Debug\Balloon_Crushing.lib" /MACHINE:X86 Debug\Source.obj
+         Balloon_Crushing.vcxproj -> G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Debug\Balloon_Crushing.exe
+     1>Done Building Project "G:\UIU Cse Needed Study File\pendrive\updated Balloon_Crushing\Balloon_Crushing\Balloon_Crushing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.09
